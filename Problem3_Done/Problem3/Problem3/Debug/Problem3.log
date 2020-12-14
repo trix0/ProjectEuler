@@ -1,0 +1,8 @@
+﻿  Problem3.cpp
+G:\Code\ProjectEuler\Problem3\Problem3\Problem3\Problem3.cpp(21,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int64_t'
+G:\Code\ProjectEuler\Problem3\Problem3\Problem3\Problem3.cpp(21,10): message : consider using '%lld' in the format string
+G:\Code\ProjectEuler\Problem3\Problem3\Problem3\Problem3.cpp(21,10): message : consider using '%I64d' in the format string
+G:\Code\ProjectEuler\Problem3\Problem3\Problem3\Problem3.cpp(34,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int64_t'
+G:\Code\ProjectEuler\Problem3\Problem3\Problem3\Problem3.cpp(34,10): message : consider using '%lld' in the format string
+G:\Code\ProjectEuler\Problem3\Problem3\Problem3\Problem3.cpp(34,10): message : consider using '%I64d' in the format string
+  Problem3.vcxproj -> G:\Code\ProjectEuler\Problem3\Problem3\Debug\Problem3.exe
